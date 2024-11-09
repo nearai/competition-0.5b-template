@@ -1,0 +1,1 @@
+# competition-0.5b-template
