@@ -1,0 +1,9 @@
+{
+  "name": "llm-c-job",
+  "version": "0.0.2",
+  "description": "Train small model using llm.c",
+  "category": "job",
+  "tags": ["llm.c", "tiny"],
+  "details": {},
+  "show_entry": false
+}
